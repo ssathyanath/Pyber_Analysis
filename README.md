@@ -8,7 +8,7 @@ The purpose of this project is to analyze the Pyber ride and city data to gain i
 
 The Pyber ride data by dates and city is used for this analysis. As shown in the summary below, the total rides, drivers and fares are highest in the urban cities, and lowest in the rural cities. However, the average fares per ride and driver are the lowest in the urban cities and highest in the rural cities.
 
-![Summary_b](https://github.com/ssathyanath/Pyber_Analysis/blob/master/Analysis/Summary_DataFrame.png)
+![Summary_b](https://github.com/ssathyanath/Pyber_Analysis/blob/master/Analysis/Summary_DataFrame.PNG)
 
 Looking at the weekly trend for a sample data from Jan to April 2019, there has been demands and lulls across all the three city types. In urban and Suburban city types, inspite of the ups and downs in the demand, the fares have risen.
 
